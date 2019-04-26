@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Bugs Bunny",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/220px-Bugs_Bunny.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Lola Bunny",
+      "image": "https://vignette.wikia.nocookie.net/looneytunes/images/b/b8/Lola_Bunny.png/revision/latest?cb=20190125182832"
+    },
+    {
+      "id": 3,
+      "name": "Elmer Fudd",
+      "image": "https://vignette.wikia.nocookie.net/heroes-and-villians/images/9/98/4352026-4927658174_981e6cd63e_z.jpg/revision/latest?cb=20171120232449"
+    },
+    {
+      "id": 4,
+      "name": "Daffy Duck",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Tweety",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/1200px-Tweety.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Tasmanian Devil",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/220px-Taz-Looney_Tunes.svg.png"
+    },
+    {
+      "id": 7,
+      "name": "Marvin the Martian",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/1200px-Marvin_the_Martian.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Pepe Le Pew",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Pep%C3%A9_Le_Pew.svg/220px-Pep%C3%A9_Le_Pew.svg.png"
+    },
+    {
+      "id": 9,
+      "name": "Sylvester",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/1200px-Sylvester_the_Cat.svg.png"
+    },
+    {
+      "id": 10,
+      "name": "Michael Jordan",
+      "image": "https://statics.sportskeeda.com/editor/2018/03/a4a7b-1520474015-800.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Porky Pig",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/1200px-Porky_Pig.svg.png"
+    },
+    {
+      "id": 12,
+      "name": "Yosemite Sam",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Yosemite_Sam.svg/1200px-Yosemite_Sam.svg.png"
+    }
+  ]
+  
